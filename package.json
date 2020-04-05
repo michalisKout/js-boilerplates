@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {
-    "@michaliskout/js-boilerplates": "bin/js-boilerplates",
-    "js-boilerplates": "bin/js-boilerplates"
-  },
   "keywords": [
     "cli",
     "js-boilerplates"
