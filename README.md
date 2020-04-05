@@ -1,4 +1,4 @@
-# js-boilerplates [![githubRepo](https://img.shields.io/badge/github-michalisKout-coral.svg)](https://github.com/michalisKout/js-boilerplates) | [![npmRepo](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://www.npmjs.com/package/@michaliskout/js-boilerplates)
+# js-boilerplates [![githubRepo](https://img.shields.io/badge/github-michalisKout-coral.svg)](https://github.com/michalisKout/js-boilerplates) | [![npmRepo](https://img.shields.io/badge/version-1.0.2-purple.svg)](https://www.npmjs.com/package/@michaliskout/js-boilerplates)
 
 js-boilerplates is a collection of javascript boilerplate projects.
 
@@ -7,7 +7,7 @@ js-boilerplates is a collection of javascript boilerplate projects.
 Use the npm package manager [npm](https://www.npmjs.com/) to install and run js-boilerplates.
 
 ```
-npx js-boilerplates
+npx @michaliskout/js-boilerplates
 ```
 
 ## Usage

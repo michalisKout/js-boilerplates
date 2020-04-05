@@ -1,6 +1,6 @@
 {
   "name": "@michaliskout/js-boilerplates",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a collection of custom javascript boilerplate projects.",
   "main": "index.js",
   "scripts": {
