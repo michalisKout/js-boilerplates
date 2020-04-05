@@ -1,4 +1,4 @@
-# js-boilerplates [![githubRepo](https://img.shields.io/badge/github-michalisKout-coral.svg)](https://github.com/michalisKout/js-boilerplates) | [![npmRepo](https://img.shields.io/badge/version-1.1.0-purple.svg)](https://www.npmjs.com/package/@michaliskout/js-boilerplates)
+# js-boilerplates [![githubRepo](https://img.shields.io/badge/github-michalisKout-coral.svg)](https://github.com/michalisKout/js-boilerplates) | [![npmRepo](https://img.shields.io/badge/version-1.2.0-purple.svg)](https://www.npmjs.com/package/@michaliskout/js-boilerplates)
 
 js-boilerplates is a collection of javascript boilerplate projects.
 
