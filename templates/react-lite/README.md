@@ -30,5 +30,5 @@
 - commitlint _(v8.3.*)_
 - jest _(v25.2.*)_
 - enzyme _(v3.11.*)_
-- sinon _(v9.0.1)
+- sinon _(v9.0.*)_
 
