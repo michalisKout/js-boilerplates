@@ -24,11 +24,11 @@ npx @michaliskout/js-boilerplates
 ### react-lite - core dependencies:
 
 -   [![NodeJs](https://img.shields.io/badge/nodeJs-13.11.0-green.svg)](https://webpack.js.org/) | [![npm](https://img.shields.io/badge/npm-6.13.7-red.svg)](https://webpack.js.org/)
-[More info](https://github.com/michalisKout/js-boilerplates/blob/master/templates/react-lite/README.md)
+ | [More info](https://github.com/michalisKout/js-boilerplates/blob/master/templates/react-lite/README.md)
 ### vanilla-js - core dependencies:
 
 -   [![NodeJs](https://img.shields.io/badge/nodeJs-13.11.0-green.svg)](https://webpack.js.org/) | [![npm](https://img.shields.io/badge/npm-6.13.7-red.svg)](https://webpack.js.org/)
-[More info](https://github.com/michalisKout/js-boilerplates/blob/master/templates/vanilla-js/README.md)
+ | [More info](https://github.com/michalisKout/js-boilerplates/blob/master/templates/vanilla-js/README.md)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
