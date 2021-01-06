@@ -60,7 +60,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "husky": "^4.2.3",
     "json-server": "^0.16.1",
     "lint-staged": "^10.0.9",
